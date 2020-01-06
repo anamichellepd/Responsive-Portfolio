@@ -228,13 +228,16 @@ input[type=submit] {
 
 @media screen and (max-width: 980px) {
   .main-section{
-    max-width: 650px;
+    width: 68%;
   }
- 
 }
 
+@media screen and (max-width: 780px) {
+  .main-section{
+    width: 100%;
+  }
 }
-@media screen and (max-width: 768px) {
-}
+
 @media screen and (max-width: 640px) {
 }
+
