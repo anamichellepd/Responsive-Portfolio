@@ -239,7 +239,12 @@ input[type=submit] {
     width:100%;
     text-align: center;
     position: static;
-  
+  }
+  .auth-image{
+    width: 100%;
+  }
+  .work {
+    width: 100%;
   }
 }
 
